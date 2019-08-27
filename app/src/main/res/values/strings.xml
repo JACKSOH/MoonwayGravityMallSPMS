@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Moonway Gravity Mall SPMS</string>
+    <string name="email_field">Your email</string>
+    <string name="password_field">Your password</string>
+    <string name="submit_button">Submit</string>
+    <string name="login_button">Login</string>
+    <string name="register_new_account">Register a new account now!</string>
+    <string name="title_activity_main_page_customer">MainPageCustomer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

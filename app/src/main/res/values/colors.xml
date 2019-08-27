@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#387e9c</color>
+    <color name="colorPrimaryDark">#acc9ab</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorDarkBlue">#1a328a</color>
+    <color name="colorLightGreen">#adccad</color>1a328a
+    <color name="colorNotTooLightGreen">#b9d6b6</color>
+    <color name="colorReallyLightGreen">#fbfff5</color>
+    <color name="colorArmyGreen">#5c6e41</color>
+    <color name="colorMiniGreen">#79c979</color>
+    <color name="colorGreen">#0fdb0f</color>
+    <color name="colorWhiteGreen">#ebf0e6</color>
+    <color name="colorSlightlyLightGreen">#b4ccb4</color>
+    <color name="colorPureWhite">#ffffff</color>
+    <color name="login_form_details_light">#f0f2f0</color>
+    <color name="login_form_details">#1e1f1e</color>
+    <color name="colorMediumRed">#e33a34</color>fcb65b
+    <color name="colorGrey">#bbc9bb</color>
+    <color name="colorPeach">#fcb65b</color>
+</resources>
