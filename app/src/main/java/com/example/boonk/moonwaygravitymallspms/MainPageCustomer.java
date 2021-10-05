@@ -17,6 +17,7 @@ public class MainPageCustomer extends AppCompatActivity {
         @Override
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
+                // print 'hi2';
                 case R.id.navigation_home:
                     mTextMessage.setText(R.string.title_home);
                     return true;
